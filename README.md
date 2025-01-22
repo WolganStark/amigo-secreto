@@ -6,3 +6,9 @@
 
 - `Inscripción de tus amigos`: El software te permite inscribir tus amigos, que luego serán sorteados! Además te indica que amigos has inscrito para el sorteo. ¡No olvides a nadie!
 - `Único Sorteo`: Una vez tengas a todos tus amigos inscritos, un amigo será el elegido por el Software por tí, ¡Apróvecha esta oportunidad y crea juegos fantásticos!
+
+
+## :white_check_mark:Tecnologías utilizadas
+- `HTML`: El lenguaje de marcado por excelencia para el desarrollo WEB.
+- `CSS`: El lenguaje para la definición de estilos de la WEB.
+- `JavaScript`: Dónde la magía ocurre y la lógica de todo el sórteo ocurre.
