@@ -36,4 +36,5 @@ function sortearAmigo (){
         document.getElementById('listaAmigos').innerHTML = '';
         document.getElementById('botonSorteo').setAttribute('disabled','true')
    }
+   return;
 }
