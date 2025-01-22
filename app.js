@@ -26,3 +26,14 @@ function mostrarAmigos (){
    return;
 }
 
+function sortearAmigo (){
+   if (amigos.length <= 0 || amigos.length === 1) {
+       alert('Debes ingresar al menos dos amigos');
+       return;
+   } else {
+        let amigoSorteado = Math.floor(Math.random() * amigos.length);
+        document.getElementById('resultado').innerHTML = `El amigo secreto sorteado es: ${amigos[amigoSorteado]}`;
+        document.getElementById('listaAmigos').innerHTML = '';
+        document.getElementById('botonSorteo').setAttribute('disabled','true')
+   }
+}
