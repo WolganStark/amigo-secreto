@@ -1,3 +1,2 @@
 <h1 align="center">Juego del Amigo Secreto</h1>
-
-![¡No le digas a nadie!](https://github.com/user-attachments/assets/9319761f-fc44-4906-a150-1d3c5a06faca)
+<p align="center"><img src="https://github.com/user-attachments/assets/7e46e567-7034-4ed2-a068-79952e32f0ce"></p>
