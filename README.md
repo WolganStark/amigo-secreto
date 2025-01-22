@@ -4,5 +4,4 @@
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
-Resultado:
+- `Inscripción de tus amigos`: El software te permite inscribir tus amigos, que luego serán sorteados! Además te indica que amigos has inscrito para el sorteo. ¡No olvides a nadie!- `Único Sorteo`: Una vez tengas a todos tus amigos inscritos, un amigo será el elegido por el Software por tí, ¡Apróvecha esta oportunidad y crea juegos fantásticos!
