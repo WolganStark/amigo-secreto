@@ -5,7 +5,9 @@
 ## :hammer:Funcionalidades del proyecto
 
 - `Inscripción de tus amigos`: El software te permite inscribir tus amigos, que luego serán sorteados! Además te indica que amigos has inscrito para el sorteo. ¡No olvides a nadie!
+<p aling="center"><img src="https://github.com/user-attachments/assets/0f4912c9-59db-4dd9-833e-eb61f87ab386"><img src="https://github.com/user-attachments/assets/bf431978-ce67-45bc-bed2-18726904957e"></p>
 - `Único Sorteo`: Una vez tengas a todos tus amigos inscritos, un amigo será el elegido por el Software por tí, ¡Apróvecha esta oportunidad y crea juegos fantásticos!
+<p><img src="https://github.com/user-attachments/assets/83a04c3f-e847-4b2f-9575-56edb8c3b975"></p>
 
 
 ## :white_check_mark:Tecnologías utilizadas
